@@ -1,0 +1,347 @@
+Ticker,Name,Segment,Issuer,Expense Ratio,AUM,Grade
+FEX,First Trust Large Cap Core AlphaDEX Fund,Equity: U.S. - Large Cap,First Trust,0.59,1000000000.0,B
+SDOG,ALPS Sector Dividend Dogs ETF,Equity: U.S. - Large Cap,SS&C,0.4,1000000000.0,A
+BWX,SPDR Bloomberg Barclays International Treasury Bond ETF,"Fixed Income: Global Ex-U.S. - Government, Non-Native Currency Investment Grade",,0.35,1000000000.0,B
+SPLB,SPDR Portfolio Long Term Corporate Bond ETF,"Fixed Income: U.S. - Corporate, Broad-based Investment Grade Long-Term",,0.07,1000000000.0,A
+PNQI,Invesco NASDAQ Internet ETF,Equity: U.S. Internet,Invesco,0.6,1000000000.0,B
+FINX,Global X FinTech ETF,Equity: Global Technology,Mirae Asset,0.68,1000000000.0,A
+EUFN,iShares MSCI Europe Financials ETF,Equity: Developed Europe Financials,Blackrock,0.48,1000000000.0,B
+SIZE,iShares MSCI USA Size Factor ETF,Equity: U.S. - Total Market,Blackrock,0.15,1000000000.0,A
+RPV,Invesco S&P 500 Pure Value ETF,Equity: U.S. - Large Cap Value,Invesco,0.35,1000000000.0,A
+IVOO,Vanguard S&P Mid-Cap 400 ETF,Equity: U.S. - Mid Cap,Vanguard,0.1,1000000000.0,A
+FTC,First Trust Large Cap Growth AlphaDEX Fund,Equity: U.S. - Large Cap Growth,First Trust,0.6,1100000000.0,B
+BAR,GraniteShares Gold Trust,Commodities: Precious Metals Gold,GraniteShares,0.17,1100000000.0,A
+FUTY,Fidelity MSCI Utilities Index ETF,Equity: U.S. Utilities,Fidelity,0.08,1100000000.0,A
+IHF,iShares U.S. Healthcare Providers ETF,Equity: U.S. Health Care Providers & Services,Blackrock,0.42,1100000000.0,B
+JMST,JPMorgan Ultra-Short Municipal Income ETF,"Fixed Income: U.S. - Government, Local Authority/Municipal Investment Grade Short-Term",JPMorgan Chase,0.18,1100000000.0,A
+URTH,iShares MSCI World ETF,Equity: Developed Markets - Total Market,Blackrock,0.24,1100000000.0,A
+IGOV,iShares International Treasury Bond ETF,"Fixed Income: Developed Markets Ex-U.S. - Government, Treasury",Blackrock,0.35,1100000000.0,B
+QQEW,First Trust Nasdaq-100 Equal Weighted Index Fund,Equity: U.S. - Large Cap,First Trust,0.59,1100000000.0,B
+FREL,Fidelity MSCI Real Estate Index ETF,Equity: U.S. Real Estate,Fidelity,0.09,1100000000.0,A
+AGGY,WisdomTree Yield Enhanced U.S. Aggregate Bond Fund,"Fixed Income: U.S. - Broad Market, Broad-based Investment Grade",WisdomTree,0.12,1100000000.0,A
+VIOO,Vanguard S&P Small-Cap 600 ETF,Equity: U.S. - Small Cap,Vanguard,0.1,1100000000.0,A
+IYG,iShares U.S. Financial Services ETF,Equity: U.S. Financial Services,Blackrock,0.42,1100000000.0,A
+USFR,WisdomTree Floating Rate Treasury Fund,"Fixed Income: U.S. - Government, Treasury Investment Grade Floating Rate",WisdomTree,0.15,1200000000.0,A
+PULS,PGIM Ultra Short Bond ETF,"Fixed Income: U.S. - Broad Market, Broad-based Investment Grade Short-Term",Prudential,0.15,1200000000.0,A
+BSCO,Invesco BulletShares 2024 Corporate Bond ETF,"Fixed Income: U.S. - Corporate, Broad-based Investment Grade Intermediate",Invesco,0.1,1200000000.0,A
+IYJ,iShares U.S. Industrials ETF,Equity: U.S. Industrials,Blackrock,0.42,1200000000.0,A
+XAR,SPDR S&P Aerospace & Defense ETF,Equity: U.S. Aerospace & Defense,,0.35,1200000000.0,A
+GNR,SPDR S&P Global Natural Resources ETF,Equity: Global Natural Resources,,0.4,1200000000.0,B
+FDIS,Fidelity MSCI Consumer Discretionary Index ETF,Equity: U.S. Consumer Cyclicals,Fidelity,0.08,1200000000.0,A
+XHB,SPDR S&P Homebuilders ETF,Equity: U.S. Homebuilding,,0.35,1200000000.0,A
+REM,iShares Mortgage Real Estate ETF,Equity: U.S. Mortgage REITs,Blackrock,0.48,1200000000.0,B
+PPLT,Aberdeen Standard Physical Platinum Shares ETF,Commodities: Precious Metals Platinum,Aberdeen Standard Investments,0.6,1200000000.0,A
+PHO,Invesco Water Resources ETF,Equity:Global Water,Invesco,0.6,1300000000.0,B
+KBWB,Invesco KBW Bank ETF,Equity: U.S. Banks,Invesco,0.35,1300000000.0,A
+SLY,SPDR S&P 600 Small Cap ETF,Equity: U.S. - Small Cap,,0.15,1300000000.0,A
+FXD,First Trust Consumer Discretionary AlphaDEX Fund,Equity: U.S. Consumer Cyclicals,First Trust,0.63,1300000000.0,B
+RWR,SPDR Dow Jones REIT ETF,Equity: U.S. Real Estate,,0.25,1300000000.0,A
+TDIV,First Trust NASDAQ Technology Dividend Index Fund,Equity: Global Technology,First Trust,0.5,1300000000.0,B
+TILT,FlexShares Morningstar US Market Factor Tilt Index Fund,Equity: U.S. - Total Market,Northern Trust,0.25,1300000000.0,A
+FDL,First Trust Morningstar Dividend Leaders Index Fund,Equity: U.S. - High Dividend Yield,First Trust,0.45,1300000000.0,A
+QLTA,iShares Aaa-A Rated Corporate Bond ETF,"Fixed Income: U.S. - Corporate, Broad-based Investment Grade",Blackrock,0.15,1300000000.0,A
+QDF,FlexShares Quality Dividend Index Fund,Equity: U.S. - Total Market,Northern Trust,0.37,1400000000.0,B
+PSK,SPDR Wells Fargo Preferred Stock ETF,"Fixed Income: U.S. - Corporate, Preferred",,0.45,1400000000.0,B
+FXH,First Trust Health Care AlphaDEX Fund,Equity: U.S. Health Care,First Trust,0.61,1400000000.0,B
+IYY,iShares Dow Jones U.S. ETF,Equity: U.S. - Total Market,Blackrock,0.2,1400000000.0,A
+IBUY,Amplify Online Retail ETF,Equity: Global Retail,Amplify Investments,0.65,1400000000.0,B
+FLQL,Franklin LibertyQ U.S. Equity ETF,Equity: U.S. - Large Cap,Franklin Templeton,0.15,1400000000.0,A
+XSLV,Invesco S&P SmallCap Low Volatility ETF,Equity: U.S. - Small Cap,Invesco,0.25,1400000000.0,A
+MDYV,SPDR S&P 400 Mid Cap Value ETF,Equity: U.S. - Mid Cap Value,,0.15,1500000000.0,A
+IYT,iShares Transportation Average ETF,Equity: U.S. Transportation,Blackrock,0.42,1500000000.0,B
+JKH,iShares Morningstar Mid-Cap Growth ETF,Equity: U.S. - Mid Cap Growth,Blackrock,0.3,1500000000.0,A
+BSCN,Invesco BulletShares 2023 Corporate Bond ETF,"Fixed Income: U.S. - Corporate, Broad-based Investment Grade Intermediate",Invesco,0.1,1500000000.0,A
+DES,WisdomTree U.S. SmallCap Dividend Fund,Equity: U.S. - Small Cap,WisdomTree,0.38,1500000000.0,A
+RWO,SPDR Dow Jones Global Real Estate ETF,Equity: Global Real Estate,,0.5,1500000000.0,B
+FLCB,Franklin Liberty U.S. Core Bond ETF,"Fixed Income: U.S. - Broad Market, Broad-based Investment Grade",Franklin Templeton,0.15,1500000000.0,B
+USRT,iShares Core U.S. REIT ETF,Equity: U.S. Real Estate,Blackrock,0.08,1500000000.0,A
+VOOV,Vanguard S&P 500 Value ETF,Equity: U.S. - Large Cap Value,Vanguard,0.1,1500000000.0,A
+ARKQ,ARK Autonomous Technology & Robotics ETF,Equity: Global Robotics & AI,ARK,0.75,1600000000.0,B
+QYLD,Global X NASDAQ 100 Covered Call ETF,Equity: U.S. - Large Cap,Mirae Asset,0.6,1600000000.0,B
+RSX,VanEck Vectors Russia ETF,Equity: Russia - Total Market,VanEck,0.67,1600000000.0,B
+FBND,Fidelity Total Bond ETF,"Fixed Income: Global - Broad Market, Broad-based",Fidelity,0.36,1600000000.0,B
+CMF,iShares California Muni Bond ETF,"Fixed Income: California - Government, Local Authority/Municipal",Blackrock,0.25,1600000000.0,A
+VYMI,Vanguard International High Dividend Yield ETF,Equity: Global Ex-U.S. - High Dividend Yield,Vanguard,0.27,1700000000.0,B
+PRFZ,Invesco FTSE RAFI US 1500 Small-Mid ETF,Equity: U.S. - Extended Market,Invesco,0.39,1700000000.0,A
+XMLV,Invesco S&P MidCap Low Volatility ETF,Equity: U.S. - Mid Cap,Invesco,0.25,1700000000.0,A
+XLG,Invesco S&P 500 Top 50 ETF,Equity: U.S. - Large Cap,Invesco,0.2,1700000000.0,A
+ITM,VanEck Vectors AMT-Free Intermediate Municipal Index ETF,"Fixed Income: U.S. - Government, Local Authority/Municipal Investment Grade Intermediate",VanEck,0.24,1700000000.0,B
+EWL,iShares MSCI Switzerland ETF,Equity: Switzerland - Total Market,Blackrock,0.51,1700000000.0,B
+EWA,iShares MSCI Australia ETF,Equity: Australia - Total Market,Blackrock,0.51,1700000000.0,B
+USMC,Principal U.S. Mega-Cap ETF,Equity: U.S. - Large Cap,Principal,0.12,1700000000.0,B
+PGF,Invesco Financial Preferred ETF,"Fixed Income: U.S. - Corporate, Preferred",Invesco,0.61,1700000000.0,B
+RDVY,First Trust Rising Dividend Achievers ETF,Equity: U.S. - Large Cap,First Trust,0.5,1800000000.0,A
+FMB,First Trust Managed Municipal ETF,"Fixed Income:U.S. Government, Local Authority/Municipal Broad Credit Broad Maturities",First Trust,0.5,1800000000.0,B
+JKE,iShares Morningstar Large-Cap Growth ETF,Equity: U.S. - Large Cap Growth,Blackrock,0.25,1800000000.0,A
+JHMM,John Hancock Multifactor Mid Cap ETF,Equity: U.S. - Mid Cap,John Hancock,0.42,1900000000.0,A
+FEZ,SPDR Euro STOXX 50 ETF,Equity: Developed Europe - Large Cap,,0.29,1900000000.0,A
+LIT,Global X Lithium & Battery Tech ETF,Equity: Global Metals & Mining,Mirae Asset,0.75,1900000000.0,B
+KRE,SPDR S&P Regional Banking ETF,Equity: U.S. Banks,,0.35,1900000000.0,A
+QCLN,First Trust NASDAQ Clean Edge Green Energy Index Fund,Equity:Global Renewable Energy,First Trust,0.6,1900000000.0,B
+ICF,iShares Cohen & Steers REIT ETF,Equity: U.S. Real Estate,Blackrock,0.34,1900000000.0,A
+SLYG,SPDR S&P 600 Small Cap Growth ETF,Equity: U.S. - Small Cap Growth,,0.15,1900000000.0,A
+ARKF,ARK Fintech Innovation ETF,Equity: Global Technology,ARK,0.75,1900000000.0,B
+VONE,Vanguard Russell 1000 ETF,Equity: U.S. - Large Cap,Vanguard,0.08,1900000000.0,A
+MDYG,SPDR S&P 400 Mid Cap Growth ETF,Equity: U.S. - Mid Cap Growth,,0.15,2000000000.0,A
+ITB,iShares U.S. Home Construction ETF,Equity: U.S. Homebuilding,Blackrock,0.42,2000000000.0,A
+FBT,First Trust NYSE Arca Biotechnology Index Fund,Equity: U.S. Biotech,First Trust,0.55,2000000000.0,B
+RODM,Hartford Multifactor Developed Markets (ex-US) ETF,Equity: Developed Markets Ex-U.S. - Total Market,The Hartford,0.29,2000000000.0,A
+BSCL,Invesco BulletShares 2021 Corporate Bond ETF,"Fixed Income: U.S. - Corporate, Broad-based Investment Grade Intermediate",Invesco,0.1,2000000000.0,A
+SPIP,SPDR Portfolio TIPS ETF,"Fixed Income: U.S. - Government, Inflation-linked Investment Grade",,0.12,2100000000.0,A
+FNDC,Schwab Fundamental International Small Company Index ETF,Equity: Developed Markets Ex-U.S. - Small Cap,Charles Schwab,0.39,2100000000.0,B
+PZA,Invesco National AMT-Free Municipal Bond ETF,"Fixed Income: U.S. - Government, Local Authority/Municipal Investment Grade",Invesco,0.35,2200000000.0,B
+BSCM,Invesco BulletShares 2022 Corporate Bond ETF,"Fixed Income: U.S. - Corporate, Broad-based Investment Grade Intermediate",Invesco,0.1,2200000000.0,A
+XLRE,Real Estate Select Sector SPDR Fund,Equity: U.S. Real Estate,,0.13,2200000000.0,A
+VAW,Vanguard Materials ETF,Equity: U.S. Basic Materials,Vanguard,0.1,2200000000.0,A
+SRLN,SPDR Blackstone / GSO Senior Loan ETF,"Fixed Income: Global - Corporate, Broad-based High Yield Floating Rate",,0.7,2200000000.0,B
+XOP,SPDR S&P Oil & Gas Exploration & Production ETF,Equity: U.S. Oil & Gas Exploration & Production,,0.35,2200000000.0,A
+SUSA,iShares MSCI USA ESG Select ETF,Equity: U.S. - Total Market,Blackrock,0.5,2200000000.0,A
+GVI,iShares Intermediate Government/Credit Bond ETF,"Fixed Income: U.S. - Broad Market, Broad-based Investment Grade Intermediate",Blackrock,0.2,2300000000.0,A
+RYT,Invesco S&P 500 Equal Weight Technology ETF,Equity: U.S. Technology,Invesco,0.4,2300000000.0,A
+BAB,Invesco Taxable Municipal Bond ETF,"Fixed Income: U.S. - Government, Local Authority/Municipal Investment Grade",Invesco,0.28,2300000000.0,B
+FLRN,SPDR Bloomberg Barclays Investment Grade Floating Rate ETF,"Fixed Income: U.S. - Broad Market, Broad-based Investment Grade Floating Rate",,0.15,2300000000.0,A
+SPYD,SPDR Portfolio S&P 500 High Dividend ETF,Equity: U.S. - Large Cap,,0.07,2300000000.0,A
+PDP,Invesco DWA Momentum ETF,Equity: U.S. - Total Market,Invesco,0.62,2300000000.0,B
+BOTZ,Global X Robotics & Artificial Intelligence ETF,Equity: Global Robotics & AI,Mirae Asset,0.68,2300000000.0,B
+SPHQ,Invesco S&P 500 Quality ETF,Equity: U.S. - Large Cap,Invesco,0.15,2300000000.0,A
+REET,iShares Global REIT ETF,Equity: Global Real Estate,Blackrock,0.14,2400000000.0,A
+FHLC,Fidelity MSCI Health Care Index ETF,Equity: U.S. Health Care,Fidelity,0.08,2400000000.0,A
+IXJ,iShares Global Healthcare ETF,Equity: Global Health Care,Blackrock,0.46,2400000000.0,B
+IYH,iShares U.S. Healthcare ETF,Equity: U.S. Health Care,Blackrock,0.44,2400000000.0,A
+KBE,SPDR S&P Bank ETF,Equity: U.S. Banks,,0.35,2500000000.0,A
+SPTI,SPDR Portfolio Intermediate Term Treasury ETF,"Fixed Income: U.S. - Government, Treasury Investment Grade Intermediate",,0.06,2500000000.0,A
+IGLB,iShares 10+ Year Investment Grade Corporate Bond ETF,"Fixed Income: U.S. - Corporate, Broad-based Investment Grade Long-Term",Blackrock,0.2,2500000000.0,A
+PBW,Invesco WilderHill Clean Energy ETF,Equity:Global Renewable Energy,Invesco,0.7,2500000000.0,B
+FXL,First Trust Technology AlphaDEX Fund,Equity: U.S. Technology,First Trust,0.61,2500000000.0,B
+DSI,iShares MSCI KLD 400 Social ETF,Equity: U.S. - Total Market,Blackrock,0.5,2600000000.0,A
+VWOB,Vanguard Emerging Markets Government Bond ETF,"Fixed Income: Emerging Markets - Government, Non-Native Currency",Vanguard,0.25,2600000000.0,B
+SGOL,Aberdeen Standard Physical Gold Shares ETF,Commodities: Precious Metals Gold,Aberdeen Standard Investments,0.17,2600000000.0,A
+IQLT,iShares MSCI Intl Quality Factor ETF,Equity: Developed Markets Ex-U.S. - Total Market,Blackrock,0.3,2600000000.0,B
+DON,WisdomTree U.S. MidCap Dividend Fund,Equity: U.S. - Mid Cap,WisdomTree,0.38,2600000000.0,A
+RPG,Invesco S&P 500 Pure Growth ETF,Equity: U.S. - Large Cap Growth,Invesco,0.35,2700000000.0,A
+PDBC,Invesco Optimum Yield Diversified Commodity Strategy No K-1 ETF,Commodities: Broad Market,Invesco,0.59,2700000000.0,B
+SLYV,SPDR S&P 600 Small Cap Value ETF,Equity: U.S. - Small Cap Value,,0.15,2700000000.0,A
+SUSL,iShares ESG MSCI USA Leaders ETF,Equity: U.S. - Total Market,Blackrock,0.1,2700000000.0,A
+SPMB,SPDR Portfolio Mortgage Backed Bond ETF,"Fixed Income: U.S. - Government, Mortgage-backed Investment Grade",,0.06,2800000000.0,A
+SPTL,SPDR Portfolio Long Term Treasury ETF,"Fixed Income: U.S. - Government, Treasury Investment Grade Long-Term",,0.06,2800000000.0,A
+IOO,iShares Global 100 ETF,Equity: Global - Large Cap,Blackrock,0.4,2800000000.0,B
+ITA,iShares U.S. Aerospace & Defense ETF,Equity: U.S. Aerospace & Defense,Blackrock,0.42,2800000000.0,A
+EWU,iShares MSCI United Kingdom ETF,Equity: U.K. - Total Market,Blackrock,0.51,2800000000.0,B
+VNLA,Janus Henderson Short Duration Income ETF,"Fixed Income: Global - Broad Market, Broad-based Short-Term",Janus Henderson,0.26,2900000000.0,A
+STIP,iShares 0-5 Year TIPS Bond ETF,"Fixed Income: U.S. - Government, Inflation-linked Investment Grade Short-Term",Blackrock,0.05,2900000000.0,A
+ESGV,Vanguard ESG U.S. Stock ETF,Equity: U.S. - Total Market,Vanguard,0.12,2900000000.0,A
+SPTS,SPDR Portfolio Short Term Treasury ETF,"Fixed Income: U.S. - Government, Treasury Investment Grade Short-Term",,0.06,3000000000.0,A
+GSY,Invesco Ultra Short Duration ETF,"Fixed Income: Global - Broad Market, Broad-based Ultra-Short Term",Invesco,0.23,3000000000.0,A
+SCHC,Schwab International Small-Cap Equity ETF,Equity: Developed Markets Ex-U.S. - Small Cap,Charles Schwab,0.11,3000000000.0,A
+VIGI,Vanguard International Dividend Appreciation ETF,Equity: Global Ex-U.S. - Total Market,Vanguard,0.2,3000000000.0,B
+CIBR,First Trust NASDAQ Cybersecurity ETF,Equity: Global Technology,First Trust,0.6,3000000000.0,B
+IGF,iShares Global Infrastructure ETF,Equity:Global Infrastructure,Blackrock,0.46,3100000000.0,B
+VTWO,Vanguard Russell 2000 ETF,Equity: U.S. - Small Cap,Vanguard,0.1,3200000000.0,A
+SPSM,SPDR Portfolio S&P 600 Small Cap ETF,Equity: U.S. - Small Cap,,0.05,3200000000.0,A
+TOTL,SPDR DoubleLine Total Return Tactical ETF,"Fixed Income: Global - Broad Market, Broad-based",,0.55,3200000000.0,B
+VOX,Vanguard Communication Services ETF,Equity: U.S. Telecommunications,Vanguard,0.1,3200000000.0,A
+MGC,Vanguard Mega Cap ETF,Equity: U.S. - Large Cap,Vanguard,0.07,3200000000.0,A
+VDE,Vanguard Energy ETF,Equity: U.S. Energy,Vanguard,0.1,3300000000.0,A
+QTEC,First Trust NASDAQ-100 Technology Sector Index Fund,Equity: U.S. Technology,First Trust,0.57,3300000000.0,B
+VONV,Vanguard Russell 1000 Value ETF,Equity: U.S. - Large Cap Value,Vanguard,0.08,3300000000.0,A
+XSOE,WisdomTree Emerging Markets ex-State-Owned Enterprises Fund,Equity: Emerging Markets - Total Market,WisdomTree,0.32,3300000000.0,B
+IAGG,iShares Core International Aggregate Bond ETF,"Fixed Income: Global Ex-U.S. - Broad Market, Broad-based Investment Grade",Blackrock,0.08,3300000000.0,B
+SPMD,SPDR Portfolio S&P 400 Mid Cap ETF,Equity: U.S. - Mid Cap,,0.05,3300000000.0,A
+TFI,SPDR Nuveen Bloomberg Barclays Municipal Bond ETF,"Fixed Income: U.S. - Government, Local Authority/Municipal Investment Grade",,0.23,3300000000.0,B
+IWY,iShares Russell Top 200 Growth ETF,Equity: U.S. - Large Cap Growth,Blackrock,0.2,3400000000.0,A
+MGV,Vanguard Mega Cap Value ETF,Equity: U.S. - Large Cap Value,Vanguard,0.07,3400000000.0,A
+GUNR,FlexShares Morningstar Global Upstream Natural Resources Index Fund,Equity: Global Natural Resources,Northern Trust,0.46,3400000000.0,B
+SJNK,SPDR Bloomberg Barclays Short Term High Yield Bond ETF,"Fixed Income: U.S. - Corporate, Broad-based High Yield Short-Term",,0.4,3500000000.0,B
+FNDE,Schwab Fundamental Emerging Markets Large Company Index ETF,Equity: Emerging Markets - Large Cap,Charles Schwab,0.39,3500000000.0,B
+ONEQ,Fidelity NASDAQ Composite Index Tracking Stock,Equity: U.S. - Total Market,Fidelity,0.21,3600000000.0,A
+SMH,VanEck Vectors Semiconductor ETF,Equity: Global Semiconductors,VanEck,0.35,3600000000.0,A
+FNDA,Schwab Fundamental U.S. Small Company Index ETF,Equity: U.S. - Small Cap,Charles Schwab,0.25,3600000000.0,A
+DBEF,Xtrackers MSCI EAFE Hedged Equity ETF,Equity: Developed Markets Ex-U.S. - Total Market,Deutsche Bank,0.35,3700000000.0,B
+VIS,Vanguard Industrials ETF,Equity: U.S. Industrials,Vanguard,0.1,3800000000.0,A
+IEUR,iShares Core MSCI Europe ETF,Equity: Developed Europe - Total Market,Blackrock,0.09,3900000000.0,B
+FXI,iShares China Large-Cap ETF,Equity: China - Large Cap,Blackrock,0.74,3900000000.0,B
+GLDM,SPDR Gold MiniShares Trust,Commodities: Precious Metals Gold,,0.18,3900000000.0,A
+SCHR,Schwab Intermediate-Term U.S. Treasury ETF,"Fixed Income: U.S. - Government, Treasury Investment Grade Intermediate",Charles Schwab,0.05,4000000000.0,A
+ESGD,iShares ESG Aware MSCI EAFE ETF,Equity: Developed Markets Ex-U.S. - Total Market,Blackrock,0.2,4000000000.0,B
+SUB,iShares Short-Term National Muni Bond ETF,"Fixed Income: U.S. - Government, Local Authority/Municipal Investment Grade Short-Term",Blackrock,0.25,4000000000.0,A
+MOAT,VanEck Vectors Morningstar Wide Moat ETF,Equity: U.S. - Total Market,VanEck,0.48,4000000000.0,B
+ANGL,VanEck Vectors Fallen Angel High Yield Bond ETF,"Fixed Income: U.S. - Corporate, Broad-based High Yield",VanEck,0.35,4000000000.0,B
+BOND,PIMCO Active Bond ETF,"Fixed Income: Global - Broad Market, Broad-based",PIMCO,0.57,4099999999.9999995,B
+SPTM,SPDR Portfolio S&P 1500 Composite Stock Market ETF,Equity: U.S. - Total Market,,0.03,4200000000.0,A
+VPU,Vanguard Utilities ETF,Equity: U.S. Utilities,Vanguard,0.1,4200000000.0,A
+PRF,Invesco FTSE RAFI U.S. 1000 ETF,Equity: U.S. - Large Cap,Invesco,0.39,4300000000.0,A
+SHM,SPDR Nuveen Bloomberg Barclays Short Term Municipal Bond ETF,"Fixed Income: U.S. - Government, Local Authority/Municipal Investment Grade Short-Term",,0.2,4300000000.0,A
+NEAR,BlackRock Short Maturity Bond ETF,"Fixed Income: Global - Broad Market, Broad-based Investment Grade Short-Term",Blackrock,0.25,4400000000.0,A
+VPL,Vanguard FTSE Pacific ETF,Equity: Developed Asia-Pacific - Total Market,Vanguard,0.08,4500000000.0,A
+IDEV,iShares Core MSCI International Developed Markets ETF,Equity: Developed Markets Ex-U.S. - Total Market,Blackrock,0.07,4500000000.0,B
+ICLN,iShares Global Clean Energy ETF,Equity:Global Renewable Energy,Blackrock,0.46,4500000000.0,B
+FIXD,First Trust TCW Opportunistic Fixed Income ETF,"Fixed Income: Global - Broad Market, Broad-based",First Trust,0.56,4600000000.0,B
+ISTB,iShares Core 1-5 Year USD Bond ETF,"Fixed Income: U.S. - Broad Market, Broad-based Short-Term",Blackrock,0.06,4700000000.0,A
+VCR,Vanguard Consumer Discretionary ETF,Equity: U.S. Consumer Cyclicals,Vanguard,0.1,4700000000.0,A
+SOXX,iShares PHLX Semiconductor ETF,Equity: U.S. Semiconductors,Blackrock,0.46,4700000000.0,A
+VOOG,Vanguard S&P 500 Growth ETF,Equity: U.S. - Large Cap Growth,Vanguard,0.1,4800000000.0,A
+VNQI,Vanguard Global ex-U.S. Real Estate ETF,Equity:Global Ex-US Real Estate,Vanguard,0.12,4900000000.0,A
+IXN,iShares Global Tech ETF,Equity: Global Technology,Blackrock,0.46,4900000000.0,B
+XLB,Materials Select Sector SPDR Fund,Equity: U.S. Basic Materials,,0.13,5100000000.0,A
+FTSM,First Trust Enhanced Short Maturity ETF,"Fixed Income: U.S. - Broad Market, Broad-based Short-Term",First Trust,0.4,5100000000.0,A
+IJT,iShares S&P Small-Cap 600 Growth ETF,Equity: U.S. - Small Cap Growth,Blackrock,0.18,5200000000.0,A
+ICSH,BlackRock Ultra Short-Term Bond ETF,"Fixed Income: U.S. - Broad Market, Broad-based Investment Grade Ultra-Short Term",Blackrock,0.08,5200000000.0,A
+FTEC,Fidelity MSCI Information Technology Index ETF,Equity: U.S. Technology,Fidelity,0.08,5200000000.0,A
+FNDF,Schwab Fundamental International Large Company Index ETF,Equity: Developed Markets Ex-U.S. - Large Cap,Charles Schwab,0.25,5300000000.0,A
+FNDX,Schwab Fundamental U.S. Large Company Index ETF,Equity: U.S. - Large Cap,Charles Schwab,0.25,5300000000.0,A
+FLOT,iShares Floating Rate Bond ETF,"Fixed Income: U.S. - Broad Market, Broad-based Investment Grade Floating Rate",Blackrock,0.2,5300000000.0,B
+IYR,iShares U.S. Real Estate ETF,Equity: U.S. Real Estate,Blackrock,0.42,5300000000.0,A
+EWT,iShares MSCI Taiwan ETF,Equity: Taiwan - Total Market,Blackrock,0.59,5300000000.0,B
+IJJ,iShares S&P Mid-Cap 400 Value ETF,Equity: U.S. - Mid Cap Value,Blackrock,0.18,5400000000.0,A
+VONG,Vanguard Russell 1000 Growth ETF,Equity: U.S. - Large Cap Growth,Vanguard,0.08,5400000000.0,A
+SPAB,SPDR Portfolio Aggregate Bond ETF,"Fixed Income: U.S. - Broad Market, Broad-based Investment Grade",,0.04,5500000000.0,A
+VDC,Vanguard Consumer Staples ETF,Equity: U.S. Consumer Non-cyclicals,Vanguard,0.1,5700000000.0,A
+VSS,Vanguard FTSE All-World ex-US Small-Cap ETF,Equity: Global Ex-U.S. - Small Cap,Vanguard,0.11,5700000000.0,A
+HDV,iShares Core High Dividend ETF,Equity: U.S. - High Dividend Yield,Blackrock,0.08,5700000000.0,A
+ACWV,iShares MSCI Global Min Vol Factor ETF,Equity: Global - Total Market,Blackrock,0.32,5800000000.0,B
+IUSB,iShares Core Total USD Bond Market ETF,"Fixed Income: U.S. - Broad Market, Broad-based",Blackrock,0.07,5900000000.0,A
+USIG,iShares Broad USD Investment Grade Corporate Bond ETF,"Fixed Income: U.S. - Corporate, Broad-based Investment Grade",Blackrock,0.15,5900000000.0,A
+SPIB,SPDR Portfolio Intermediate Term Corporate Bond ETF,"Fixed Income: U.S. - Corporate, Broad-based Investment Grade Intermediate",,0.07,6000000000.0,A
+SKYY,First Trust Cloud Computing ETF,Equity: U.S. Technology,First Trust,0.6,6100000000.0,B
+IJS,iShares S&P Small-Cap 600 Value ETF,Equity: U.S. - Small Cap Value,Blackrock,0.18,6200000000.0,A
+LMBS,First Trust Low Duration Opportunities ETF,"Fixed Income: U.S. - Broad Market, Asset-backed Short-Term",First Trust,0.67,6500000000.0,B
+CWB,SPDR Bloomberg Barclays Convertible Securities ETF,"Fixed Income: U.S. - Corporate, Convertible",,0.4,6500000000.0,B
+VGIT,Vanguard Intermediate-Term Treasury Index ETF,"Fixed Income: U.S. - Government, Treasury Investment Grade Intermediate",Vanguard,0.05,6800000000.0,A
+XBI,SPDR S&P Biotech ETF,Equity: U.S. Biotech,,0.35,6900000000.0,A
+FTCS,First Trust Capital Strength ETF,Equity: U.S. - Large Cap,First Trust,0.58,6900000000.0,B
+NOBL,ProShares S&P 500 Dividend Aristocrats ETF,Equity: U.S. - Large Cap,ProShares,0.35,6900000000.0,A
+PGX,Invesco Preferred ETF,"Fixed Income: U.S. - Corporate, Preferred",Invesco,0.52,7000000000.0,B
+VFH,Vanguard Financials ETF,Equity: U.S. Financials,Vanguard,0.1,7100000000.0,A
+EWY,iShares MSCI South Korea ETF,Equity: South Korea - Total Market,Blackrock,0.59,7100000000.0,B
+OEF,iShares S&P 100 ETF,Equity: U.S. - Large Cap,Blackrock,0.2,7200000000.0,A
+SPSB,SPDR Portfolio Short Term Corporate Bond ETF,"Fixed Income: U.S. - Corporate, Broad-based Investment Grade Short-Term",,0.07,7200000000.0,A
+EFV,iShares MSCI EAFE Value ETF,Equity: Developed Markets Ex-U.S. - Total Market Value,Blackrock,0.39,7200000000.0,B
+USHY,iShares Broad USD High Yield Corporate Bond ETF,"Fixed Income: U.S. - Corporate, Broad-based High Yield",Blackrock,0.15,7300000000.0,A
+HYLB,Xtrackers USD High Yield Corporate Bond ETF,"Fixed Income: U.S. - Corporate, Broad-based High Yield",Deutsche Bank,0.15,7400000000.0,B
+SPYV,SPDR Portfolio S&P 500 Value ETF,Equity: U.S. - Large Cap Value,,0.04,7500000000.0,A
+ARKG,ARK Genomic Revolution ETF,Equity: Global Health Care Pharmaceuticals & Medical Equipment,ARK,0.75,7500000000.0,B
+IUSV,iShares Core S&P U.S. Value ETF,Equity: U.S. - Total Market Value,Blackrock,0.05,7500000000.0,A
+SPLG,SPDR Portfolio S&P 500 ETF,Equity: U.S. - Large Cap,,0.03,7700000000.0,A
+IJK,iShares S&P Mid-Cap 400 Growth ETF,Equity: U.S. - Mid Cap Growth,Blackrock,0.17,7800000000.0,A
+SCHO,Schwab Short-Term U.S. Treasury ETF,"Fixed Income: U.S. - Government, Treasury Investment Grade Short-Term",Charles Schwab,0.05,7800000000.0,A
+SCHV,Schwab U.S. Large-Cap Value ETF,Equity: U.S. - Large Cap Value,Charles Schwab,0.04,7900000000.0,A
+SCHM,Schwab U.S. Mid-Cap ETF,Equity: U.S. - Mid Cap,Charles Schwab,0.04,7900000000.0,A
+SPLV,Invesco S&P 500 Low Volatility ETF,Equity: U.S. - Large Cap,Invesco,0.25,8100000000.0,A
+SCHE,Schwab Emerging Markets Equity ETF,Equity: Emerging Markets - Total Market,Charles Schwab,0.11,8199999999.999999,A
+SCHZ,Schwab U.S. Aggregate Bond ETF,"Fixed Income: U.S. - Broad Market, Broad-based Investment Grade",Charles Schwab,0.04,8600000000.0,A
+IHI,iShares U.S. Medical Devices ETF,Equity: U.S. Health Care Equipment & Supplies,Blackrock,0.42,9100000000.0,A
+VLUE,iShares MSCI USA Value Factor ETF,Equity: U.S. - Total Market Value,Blackrock,0.15,9100000000.0,A
+SPDW,SPDR Portfolio Developed World ex-US ETF,Equity: Developed Markets Ex-U.S. - Total Market,,0.04,9200000000.0,A
+SPYG,SPDR Portfolio S&P 500 Growth ETF,Equity: U.S. - Large Cap Growth,,0.04,9600000000.0,A
+VGSH,Vanguard Short-Term Treasury Index ETF,"Fixed Income: U.S. - Government, Treasury Investment Grade Short-Term",Vanguard,0.05,9800000000.0,A
+MGK,Vanguard Mega Cap Growth ETF,Equity: U.S. - Large Cap Growth,Vanguard,0.07,9900000000.0,A
+EFG,iShares MSCI EAFE Growth ETF,Equity: Developed Markets Ex-U.S. - Total Market Growth,Blackrock,0.4,9900000000.0,B
+VTIP,Vanguard Short-Term Inflation-Protected Securities ETF,"Fixed Income: U.S. - Government, Inflation-linked Investment Grade Short-Term",Vanguard,0.05,10000000000.0,A
+VOT,Vanguard Mid-Cap Growth ETF,Equity: U.S. - Mid Cap Growth,Vanguard,0.07,10000000000.0,A
+VTEB,Vanguard Tax-Exempt Bond ETF,"Fixed Income: U.S. - Government, Local Authority/Municipal Investment Grade",Vanguard,0.06,10300000000.0,A
+IBB,iShares NASDAQ Biotechnology ETF,Equity: U.S. Biotech,Blackrock,0.46,10400000000.0,A
+IUSG,iShares Core S&P U.S. Growth ETF,Equity: U.S. - Total Market Growth,Blackrock,0.05,10400000000.0,A
+IWV,iShares Russell 3000 ETF,Equity: U.S. - Total Market,Blackrock,0.2,10500000000.0,A
+EFAV,iShares MSCI EAFE Min Vol Factor ETF,Equity: Developed Markets Ex-U.S. - Total Market,Blackrock,0.32,10600000000.0,B
+VOE,Vanguard Mid-Cap Value ETF,Equity: U.S. - Mid Cap Value,Vanguard,0.07,10800000000.0,A
+IGIB,iShares 5-10 Year Investment Grade Corporate Bond ETF,"Fixed Income: U.S. - Corporate, Broad-based Investment Grade Intermediate",Blackrock,0.2,11000000000.0,A
+SCZ,iShares MSCI EAFE Small-Cap ETF,Equity: Developed Markets Ex-U.S. - Small Cap,Blackrock,0.4,11100000000.0,B
+FDN,First Trust Dow Jones Internet Index Fund,Equity: U.S. Internet,First Trust,0.52,11100000000.0,A
+IEI,iShares 3-7 Year Treasury Bond ETF,"Fixed Income: U.S. - Government, Treasury Investment Grade Intermediate",Blackrock,0.15,11200000000.0,A
+GSLC,Goldman Sachs ActiveBeta U.S. Large Cap Equity ETF,Equity: U.S. - Large Cap,Goldman Sachs,0.09,11300000000.0,A
+IWS,iShares Russell Mid-Cap Value ETF,Equity: U.S. - Mid Cap Value,Blackrock,0.24,11500000000.0,A
+IWN,iShares Russell 2000 Value ETF,Equity: U.S. - Small Cap Value,Blackrock,0.24,11600000000.0,A
+XLU,Utilities Select Sector SPDR Fund,Equity: U.S. Utilities,,0.13,11700000000.0,A
+IWO,iShares Russell 2000 Growth ETF,Equity: U.S. - Small Cap Growth,Blackrock,0.24,11700000000.0,A
+XLC,Communication Services Select Sector SPDR Fund,Equity: U.S. Telecommunications,,0.13,12100000000.0,A
+JNK,SPDR Bloomberg Barclays High Yield Bond ETF,"Fixed Income: U.S. - Corporate, Broad-based High Yield",,0.4,12300000000.0,B
+BIL,SPDR Bloomberg Barclays 1-3 Month T-Bill ETF,"Fixed Income: U.S. - Government, Treasury Investment Grade Ultra-Short Term",,0.14,12700000000.0,A
+SCHA,Schwab U.S. Small-Cap ETF,Equity: U.S. - Small Cap,Charles Schwab,0.04,12800000000.0,A
+VMBS,Vanguard Mortgage-Backed Securities ETF,"Fixed Income: U.S. - Government, Mortgage-backed Investment Grade",Vanguard,0.05,13000000000.0,A
+VHT,Vanguard Health Care ETF,Equity: U.S. Health Care,Vanguard,0.1,13000000000.0,A
+MTUM,iShares MSCI USA Momentum Factor ETF,Equity: U.S. - Total Market,Blackrock,0.15,13000000000.0,A
+ESGU,iShares ESG Aware MSCI USA ETF,Equity: U.S. - Total Market,Blackrock,0.15,13300000000.0,A
+XLE,Energy Select Sector SPDR Fund,Equity: U.S. Energy,,0.13,13300000000.0,A
+SCHG,Schwab U.S. Large-Cap Growth ETF,Equity: U.S. - Large Cap Growth,Charles Schwab,0.04,13400000000.0,A
+XLP,Consumer Staples Select Sector SPDR Fund,Equity: U.S. Consumer Non-cyclicals,,0.13,13500000000.0,A
+VXF,Vanguard Extended Market ETF,Equity: U.S. - Extended Market,Vanguard,0.06,13600000000.0,A
+SCHP,Schwab U.S. TIPS ETF,"Fixed Income: U.S. - Government, Inflation-linked Investment Grade",Charles Schwab,0.05,14000000000.0,A
+ACWI,iShares MSCI ACWI ETF,Equity: Global - Total Market,Blackrock,0.32,14100000000.0,B
+MINT,PIMCO Enhanced Short Maturity Active ETF,"Fixed Income: U.S. - Broad Market, Broad-based Investment Grade Short-Term",PIMCO,0.37,14200000000.0,B
+VBK,Vanguard Small-Cap Growth ETF,Equity: U.S. - Small Cap Growth,Vanguard,0.07,14300000000.0,A
+DVY,iShares Select Dividend ETF,Equity: U.S. - High Dividend Yield,Blackrock,0.39,14400000000.0,A
+VGK,Vanguard FTSE Europe ETF,Equity: Developed Europe - Total Market,Vanguard,0.08,14500000000.0,A
+DGRO,iShares Core Dividend Growth ETF,Equity: U.S. - Total Market,Blackrock,0.08,14500000000.0,A
+SLV,iShares Silver Trust,Commodities: Precious Metals Silver,Blackrock,0.5,14500000000.0,A
+IEF,iShares 7-10 Year Treasury Bond ETF,"Fixed Income: U.S. - Government, Treasury Investment Grade Intermediate",Blackrock,0.15,14800000000.0,A
+IWP,iShares Russell Mid-Cap Growth ETF,Equity: U.S. - Mid Cap Growth,Blackrock,0.24,15200000000.0,A
+BIV,Vanguard Intermediate-Term Bond ETF,"Fixed Income: U.S. - Broad Market, Broad-based Investment Grade Intermediate",Vanguard,0.05,15400000000.0,B
+JPST,JPMorgan Ultra-Short Income ETF,"Fixed Income: U.S. - Broad Market, Broad-based Investment Grade Ultra-Short Term",JPMorgan Chase,0.18,15500000000.0,A
+XLI,Industrial Select Sector SPDR Fund,Equity: U.S. Industrials,,0.13,15900000000.0,A
+SCHD,Schwab U.S. Dividend Equity ETF,Equity: U.S. - High Dividend Yield,Charles Schwab,0.06,16100000000.000002,A
+GDX,VanEck Vectors Gold Miners ETF,Equity: Global Gold Miners,VanEck,0.52,16300000000.0,B
+VT,Vanguard Total World Stock ETF,Equity: Global - Total Market,Vanguard,0.08,16800000000.0,A
+SDY,SPDR S&P Dividend ETF,Equity: U.S. - High Dividend Yield,,0.35,16899999999.999998,A
+ARKK,ARK Innovation ETF,Equity: Global - Total Market,ARK,0.75,17500000000.0,B
+VBR,Vanguard Small-Cap Value ETF,Equity: U.S. - Small Cap Value,Vanguard,0.07,17600000000.0,A
+MDY,SPDR S&P Midcap 400 ETF Trust,Equity: U.S. - Mid Cap,,0.23,17600000000.0,A
+SHV,iShares Short Treasury Bond ETF,"Fixed Income: U.S. - Government, Treasury Investment Grade Ultra-Short Term",Blackrock,0.15,17800000000.0,A
+RSP,Invesco S&P 500 Equal Weight ETF,Equity: U.S. - Large Cap,Invesco,0.2,17900000000.0,A
+SCHB,Schwab U.S. Broad Market ETF,Equity: U.S. - Total Market,Charles Schwab,0.03,17900000000.0,A
+XLY,Consumer Discretionary Select Sector SPDR Fund,Equity: U.S. Consumer Cyclicals,,0.13,18200000000.0,A
+IVE,iShares S&P 500 Value ETF,Equity: U.S. - Large Cap Value,Blackrock,0.18,18300000000.0,A
+TLT,iShares 20+ Year Treasury Bond ETF,"Fixed Income: U.S. - Government, Treasury Investment Grade Long-Term",Blackrock,0.15,19000000000.0,A
+EMB,iShares JP Morgan USD Emerging Markets Bond ETF,"Fixed Income: Emerging Markets - Government, Non-Native Currency",Blackrock,0.39,19100000000.0,B
+SHY,iShares 1-3 Year Treasury Bond ETF,"Fixed Income: U.S. - Government, Treasury Investment Grade Short-Term",Blackrock,0.15,19600000000.0,A
+MUB,iShares National Muni Bond ETF,"Fixed Income: U.S. - Government, Local Authority/Municipal Investment Grade",Blackrock,0.25,20400000000.0,A
+VV,Vanguard Large-Cap ETF,Equity: U.S. - Large Cap,Vanguard,0.04,21100000000.0,A
+QUAL,iShares MSCI USA Quality Factor ETF,Equity: U.S. - Total Market,Blackrock,0.15,21400000000.0,A
+IGSB,iShares 1-5 Year Investment Grade Corporate Bond ETF,"Fixed Income: U.S. - Corporate, Broad-based Investment Grade Short-Term",Blackrock,0.2,22200000000.0,A
+SCHF,Schwab International Equity ETF,Equity: Developed Markets Ex-U.S. - Total Market,Charles Schwab,0.06,23300000000.0,A
+DIA,SPDR Dow Jones Industrial Average ETF Trust,Equity: U.S. - Large Cap,,0.16,24000000000.0,A
+XLF,Financial Select Sector SPDR Fund,Equity: U.S. Financials,,0.13,24300000000.0,A
+IWR,iShares Russell Mid-Cap ETF,Equity: U.S. - Mid Cap,Blackrock,0.19,24500000000.0,A
+IXUS,iShares Core MSCI Total International Stock ETF,Equity: Global Ex-U.S. - Total Market,Blackrock,0.09,25200000000.0,B
+MBB,iShares MBS ETF,"Fixed Income: U.S. - Government, Mortgage-backed Investment Grade",Blackrock,0.06,25200000000.0,A
+XLV,Health Care Select Sector SPDR Fund,Equity: U.S. Health Care,,0.13,25300000000.0,A
+SCHX,Schwab U.S. Large-Cap ETF,Equity: U.S. - Large Cap,Charles Schwab,0.03,25400000000.0,A
+HYG,iShares iBoxx USD High Yield Corporate Bond ETF,"Fixed Income: U.S. - Corporate, Broad-based High Yield",Blackrock,0.49,25600000000.0,B
+IWB,iShares Russell 1000 ETF,Equity: U.S. - Large Cap,Blackrock,0.15,25700000000.0,A
+TIP,iShares TIPS Bond ETF,"Fixed Income: U.S. - Government, Inflation-linked Investment Grade",Blackrock,0.19,26300000000.0,A
+BSV,Vanguard Short-Term Bond ETF,"Fixed Income: U.S. - Broad Market, Broad-based Investment Grade Short-Term",Vanguard,0.05,29200000000.0,A
+VEU,Vanguard FTSE All-World ex-US ETF,Equity: Global Ex-U.S. - Total Market,Vanguard,0.08,29400000000.0,B
+VNQ,Vanguard Real Estate ETF,Equity: U.S. Real Estate,Vanguard,0.12,30500000000.0,A
+VYM,Vanguard High Dividend Yield ETF,Equity: U.S. - High Dividend Yield,Vanguard,0.06,30900000000.0,A
+IAU,iShares Gold Trust,Commodities: Precious Metals Gold,Blackrock,0.25,31600000000.0,B
+ITOT,iShares Core S&P Total U.S. Stock Market ETF,Equity: U.S. - Total Market,Blackrock,0.03,32000000000.0,A
+IVW,iShares S&P 500 Growth ETF,Equity: U.S. - Large Cap Growth,Blackrock,0.18,32200000000.000004,A
+USMV,iShares MSCI USA Min Vol Factor ETF,Equity: U.S. - Total Market,Blackrock,0.15,33100000000.0,A
+VCSH,Vanguard Short-Term Corporate Bond ETF,"Fixed Income: U.S. - Corporate, Broad-based Investment Grade Short-Term",Vanguard,0.05,36000000000.0,A
+VB,Vanguard Small-Cap ETF,Equity: U.S. - Small Cap,Vanguard,0.05,37000000000.0,A
+BNDX,Vanguard Total International Bond ETF,"Fixed Income: Global Ex-U.S. - Broad Market, Broad-based Investment Grade",Vanguard,0.08,37100000000.0,B
+XLK,Technology Select Sector SPDR Fund,Equity: U.S. Technology,,0.13,38000000000.0,A
+VXUS,Vanguard Total International Stock ETF,Equity: Global Ex-U.S. - Total Market,Vanguard,0.08,38100000000.0,A
+VO,Vanguard Mid-Cap ETF,Equity: U.S. - Mid Cap,Vanguard,0.04,41100000000.0,A
+VGT,Vanguard Information Technology ETF,Equity: U.S. Technology,Vanguard,0.1,41300000000.0,A
+VCIT,Vanguard Intermediate-Term Corporate Bond ETF,"Fixed Income: U.S. - Corporate, Broad-based Investment Grade Intermediate",Vanguard,0.05,42300000000.0,B
+IWD,iShares Russell 1000 Value ETF,Equity: U.S. - Large Cap Value,Blackrock,0.19,43400000000.0,A
+VIG,Vanguard Dividend Appreciation ETF,Equity: U.S. - Total Market,Vanguard,0.06,52800000000.0,A
+EFA,iShares MSCI EAFE ETF,Equity: Developed Markets Ex-U.S. - Total Market,Blackrock,0.32,53000000000.0,B
+IJH,iShares Core S&P Mid-Cap ETF,Equity: U.S. - Mid Cap,Blackrock,0.05,53200000000.0,A
+LQD,iShares iBoxx USD Investment Grade Corporate Bond ETF,"Fixed Income: U.S. - Corporate, Broad-based Investment Grade",Blackrock,0.14,54900000000.0,A
+IJR,iShares Core S&P Small-Cap ETF,Equity: U.S. - Small Cap,Blackrock,0.06,55400000000.0,A
+IWM,iShares Russell 2000 ETF,Equity: U.S. - Small Cap,Blackrock,0.2,57800000000.0,A
+VTV,Vanguard Value ETF,Equity: U.S. - Large Cap Value,Vanguard,0.04,60600000000.0,A
+IWF,iShares Russell 1000 Growth ETF,Equity: U.S. - Large Cap Growth,Blackrock,0.19,64700000000.0,A
+BND,Vanguard Total Bond Market ETF,"Fixed Income: U.S. - Broad Market, Broad-based Investment Grade",Vanguard,0.04,68000000000.0,A
+VUG,Vanguard Growth ETF,Equity: U.S. - Large Cap Growth,Vanguard,0.04,68099999999.99999,A
+VWO,Vanguard FTSE Emerging Markets ETF,Equity: Emerging Markets - Total Market,Vanguard,0.1,69500000000.0,B
+GLD,SPDR Gold Trust,Commodities: Precious Metals Gold,,0.4,70400000000.0,A
+IEFA,iShares Core MSCI EAFE ETF,Equity: Developed Markets Ex-U.S. - Total Market,Blackrock,0.07,84400000000.0,B
+AGG,iShares Core U.S. Aggregate Bond ETF,"Fixed Income: U.S. - Broad Market, Broad-based Investment Grade",Blackrock,0.04,85000000000.0,A
+VEA,Vanguard FTSE Developed Markets ETF,Equity: Developed Markets Ex-U.S. - Total Market,Vanguard,0.05,87600000000.0,A
+QQQ,Invesco QQQ Trust,Equity: U.S. - Large Cap,Invesco,0.2,152300000000.0,A
+VOO,Vanguard S&P 500 ETF,Equity: U.S. - Large Cap,Vanguard,0.03,176700000000.0,A
+VTI,Vanguard Total Stock Market ETF,Equity: U.S. - Total Market,Vanguard,0.03,200000000000.0,A
+IVV,iShares Core S&P 500 ETF,Equity: U.S. - Large Cap,Blackrock,0.03,236800000000.0,A
+SPY,SPDR S&P 500 ETF Trust,Equity: U.S. - Large Cap,,0.09,329000000000.0,A

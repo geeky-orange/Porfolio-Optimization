@@ -1,0 +1,2 @@
+,Assets,Industry,Returns,Volatility,Sharpe,Return over drawdown,Weights,Level
+0,"['XLK Adj Close', 'BAB Adj Close', 'TLT Adj Close', 'ARKG Adj Close']","['Information Technology', 'Government', 'Government', 'Total']",0.23154798537200547,0.15570753094521608,1.4870699186250214,8.387893903893939e-07,"[0.33771745937762876, 0.08456226672972289, 0.40000000000000013, 0.17772027389264827]",aggressive
